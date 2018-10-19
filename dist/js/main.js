@@ -1,0 +1,2 @@
+"use strict";var myFullpage=new fullpage("#fullpage",{menu:"#menu",lockAnchors:!1,anchors:["firstSection","secondSection","thirdSection","fourthSection","fifthSection","sixthsection"],showActiveTooltip:!1,slidesNavigation:!1});$(document).ready(function(){$(".welcome-gallery").slick({prevArrow:'<span class="slick-prev icon-chevron-left"></span>',nextArrow:'<span class="slick-next icon-chevron-right"></span>'})});
+//# sourceMappingURL=main.js.map
